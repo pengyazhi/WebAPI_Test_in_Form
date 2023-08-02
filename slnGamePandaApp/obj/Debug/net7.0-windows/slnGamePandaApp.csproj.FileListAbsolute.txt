@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\bin\Debug\net7.0-windows\slnGamePandaApp.exe
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\bin\Debug\net7.0-windows\slnGamePandaApp.deps.json
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\bin\Debug\net7.0-windows\slnGamePandaApp.runtimeconfig.json
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\bin\Debug\net7.0-windows\slnGamePandaApp.dll
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\bin\Debug\net7.0-windows\slnGamePandaApp.pdb
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.Form1.resources
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.dll
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\refint\slnGamePandaApp.dll
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.pdb
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\slnGamePandaApp.genruntimeconfig.cache
+C:\Users\User\Desktop\Repos\slnGamePandaApp\slnGamePandaApp\obj\Debug\net7.0-windows\ref\slnGamePandaApp.dll
